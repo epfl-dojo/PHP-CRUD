@@ -1,3 +1,7 @@
 # PHP-CRUD
 
 A simple CRUD in PHP with mysql and PDO.
+
+# Capitain's log
+
+- Day one: nothing to report
