@@ -6,3 +6,4 @@ A simple CRUD in PHP with mysql and PDO.
 
 - Day one: nothing to report
 - Day two: Node is better
+- Day three: It is a post
